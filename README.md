@@ -14,6 +14,7 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 💾 Table of Content
 
 Introduction Abstract Dataset Information Problem Statement Conclusion
+
 📖 Introduction:
 
 Insurance is a contract, represented by a policy, in which an individual or entity receives financial protection or reimbursement against losses from an insurance company.
